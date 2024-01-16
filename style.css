@@ -1,0 +1,21 @@
+body {
+  background-color: rgb(255, 228, 207);
+  border-radius: 20px;
+
+  margin: auto;
+  padding: 25px 150px 50px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  width: 450px;
+}
+
+.centerimage {
+  margin-left: auto;
+  margin-right: 600px;
+
+  border-radius: 20px;
+}
+
+html {
+  background: url("img/84.jpg") no-repeat center fixed;
+  background-size: cover;
+}
